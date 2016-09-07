@@ -2,6 +2,7 @@
   "private": true,
   "devDependencies": {},
   "dependencies": {
-    "coffeeify": "^2.0.1"
+    "coffeeify": "^2.0.1",
+    "uniq": "^1.0.1"
   }
 }
